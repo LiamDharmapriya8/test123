@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo hello wassup
-ecko mac650s
+echo edited this file
